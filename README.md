@@ -16,7 +16,9 @@
   <li>SPL dengan metode Inverse</li>
   <li>SPL dengan metode Cramer</li>
 </ul>
-<p>Kelas: 2A-D4 Teknik Informatika</p>
+
+<h3>About</h3>
+<p>Kelas 2A-D4 Teknik Informatika</p>
 <p>Kelompok 1 </p>
 <p>Anggota Kelompok: </p>
 <ul>
